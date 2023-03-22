@@ -11,4 +11,5 @@ __________________________________
 - Como essas entidades estão relacionadas?
   
   1:1 e 1:N.
-______________________________________________
+***
+![diagrama](https://github.com/beatrizmelop/projeto_individual_mod4/blob/main/Entity%20Relationship%20Diagram%20(1).jpg?raw=true)
